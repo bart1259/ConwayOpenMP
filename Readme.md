@@ -18,6 +18,8 @@ To run the program, run
 
     ./conway.out 5000
 
+to run 5000 iterations of Conway's Game of Life
+
 ## Results
 
  | Iterations | Runtime w/o OpenMP (s) | Runtime w/ OpenMP (s) | % faster
